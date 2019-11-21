@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background-color: black;
+
+    .control {
+        cursor: none
+    }
+    .pilot {
+        cursor: cell
+    }
+
+}
